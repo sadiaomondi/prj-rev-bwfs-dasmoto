@@ -1,0 +1,36 @@
+h1 {
+  font-family: Helvetica;
+  font-size: 100px;
+  color: khaki;
+  text-align: center;
+}
+
+.image, .main-banner {
+  background-image: url("/Users/omondisadia/Documents/Code/DasmotosArts&Crafts/resources/images/pattern.jpeg"
+  );
+}
+
+h2  {
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.Brushes {
+  background-color: mediumspringgreen;
+}
+
+strong {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
+
+.Frames {
+  background-color: lightcoral;
+}
+
+.Paint {
+  background-color: skyblue;
+}
